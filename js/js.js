@@ -1,7 +1,7 @@
 const textTag=document.getElementById('text')
-function touchstartHandler() {
-    alert('touch start handler')
-}
+// function touchstartHandler() {
+//     alert('touch start handler')
+// }
 function touchmoveHandler() {
     alert('touch move handler')
 }
