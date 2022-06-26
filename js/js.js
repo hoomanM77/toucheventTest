@@ -8,6 +8,6 @@ function touchmoveHandler() {
 function touchendHandler() {
     alert('touch end handler')
 }
-textTag.addEventListener('touchstart',touchstartHandler)
+// textTag.addEventListener('touchstart',touchstartHandler)
 textTag.addEventListener('touchend',touchendHandler)
 textTag.addEventListener('touchmove',touchmoveHandler)
